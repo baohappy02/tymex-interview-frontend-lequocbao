@@ -1,5 +1,5 @@
 import "./App.css";
-import MarketPlacePage from '@/pages/MarketPlace';
+import MarketPlacePage from "@/pages/MarketPlace";
 
 const App = () => {
   return (
